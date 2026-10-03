@@ -151,3 +151,28 @@ The following files in this repository capture the findings:
 The evidence captured in this repository shows that the Mediroza General Hospital application contains multiple critical vulnerabilities that could lead to unauthorized access to patient and organizational data. The most serious issue is the SQL injection exposure, which enabled broad data retrieval and a clear breach pathway. Combined with weak password practices and insecure document handling, these flaws represent a major security incident risk for sensitive healthcare information.
 
 This assessment highlights the need for immediate remediation before the system is used in a production environment involving protected medical records.
+
+
+## Authorization & Ethical Use
+
+All activities documented in this repository were performed within an authorized educational environment. Network scanning was conducted only against systems and devices that I own or for which I had appropriate authorization.
+
+The contents of this repository are provided strictly for educational, research, and authorized cybersecurity training purposes.
+
+## Disclaimer
+
+The techniques and commands documented here should only be used against systems for which explicit authorization has been obtained. Unauthorized scanning, reconnaissance, or testing of third-party systems may violate applicable laws, policies, or terms of service.
+
+# Author
+**Sikhanyiso B. Sibisi**
+Cybersecurity Intern - B083
+
+LinkedIn: https://za.linkedin.com/in/sikhanyiso-b-s-a28a0b13a
+
+# Project Information
+GitHub | Repository|
+-------|-----------|
+Program Name| Cybersecurity at Networkwalks |
+Project | Penetration Testing Report – Mediroza General Hospital  | 
+Week | 04 | 
+
